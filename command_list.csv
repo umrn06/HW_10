@@ -1,0 +1,187 @@
+    1  whoim
+    2  whoami
+    3  help
+    4  help cd
+    5  clear
+    6  pwdd
+    7  pwwd
+    8  pwd
+    9  cd desk top
+   10  pwd
+   11  ls
+   12  dir
+   13  cd api
+   14  cd Api
+   15  clear
+   16  cd ödev
+   17  clear
+   18  pwd
+   19  cd ödev
+   20  ls
+   21  touch goit.txt
+   22  ls
+   23  clear
+   24  pwd
+   25  cd ödev
+   26  clear
+   27  pwd
+   28  cd SQL
+   29  clear
+   30  pwd
+   31  cd postman
+   32  ls
+   33  touch goit.tx
+   34  ls goit.tx
+   35  rm derler
+   36  pwd
+   37  rm Dersler
+   38  mkdir Dersler
+   39  rm goit.txt
+   40  rmdir Dersler
+   41  rm goit.tx
+   42  clear
+   43  date
+   44  cd
+   45  ccclleaar
+   46  clear
+   47  ping www.google.com
+   48  cd ..
+   49  cd api
+   50  cleaar
+   51  clear
+   52  git config -- global user.name
+   53  git config --global user.name ümran
+   54  git config --global user.email umrankosker06gmail.com
+   55  cd SQL
+   56  pwd
+   57  cd SQL
+   58  clear
+   59  cd SQL
+   60  clear
+   61  pwd
+   62  cd SQL
+   63  cd SQL
+   64  CLEAR
+   65  pwd
+   66  cd SQ
+   67  pwd
+   68  cd SQL
+   69  clear
+   70  pwd
+   71  cd SQL
+   72  cd postman
+   73  clear
+   74  cls
+   75  pwd
+   76  cd SQL
+   77  pwd
+   78  cd sql
+   79  pwd
+   80  cd SQL
+   81  cd SQL
+   82  pwd
+   83  git init
+   84  git add .
+   85  git commit -m "ilk versiyon"
+   86  git commit -m "ilk versiyon"
+   87  git push
+   88  touch deneme.txt
+   89  git add.
+   90  git add ..
+   91  git add .
+   92  git commit -m "ilk versiyon"
+   93  git remote add origin https://github.com/umrn06/goit.git
+   94  git push -u origin main
+   95  git push -u origin masterr
+   96  git push -u origin master
+   97  git branch
+   98  clear
+   99  git branch
+  100  git branch ümran
+  101  git branch
+  102  git branch ebu
+  103  git branch
+  104  git checkout ümran
+  105  ggit branch
+  106  git branch
+  107  git checkout master
+  108  git branch
+  109  git checkout ümran
+  110  git add .
+  111  git checkout master
+  112  git add .
+  113  git commit -m "master ilk commit"
+  114  git checkout ümran
+  115  git add .
+  116  git commit -m "v1"
+  117  git merge master
+  118  git checkout master
+  119  git add .
+  120  git commit -m "dersler"
+  121  git merge ümran
+  122  git add .
+  123  git commit -m "v2"
+  124  git push
+  125  git checkout ümran
+  126  git merge master
+  127  ggit add .
+  128  git add .
+  129  git commit -m "son hali"
+  130  clear
+  131  git push
+  132   git push --set-upstream origin ümran
+  133  git add .
+  134  git commit -m "son versiyon"
+  135  git push
+  136  git merge master
+  137  git checkout master
+  138  ggit checkout ümran
+  139  git checkout ümran
+  140  git add .
+  141  git commit -m "son eklenen  işlemler"
+  142  git push
+  143  git merge master
+  144  git add .
+  145  git push
+  146  whoami
+  147  mkdir git_projesi
+  148  cd git_projesi
+  149  git config --global user.name "Adınız Soyadınız"
+  150  git config --global user.name "ümran köşker"
+  151  git config --global user.email "umrankosker06@gmail.com"
+  152  pwd
+  153  git clone https://github.com/umrn06/HW_10.git
+  154  cd HW_10
+  155  touch text_ignore.txt
+  156  git status
+  157  git add .gitignore
+  158  git commit -m ".gitignore dosyasına text_ignore.txt eklendi"
+  159  git push orgin master
+  160  git push origin master
+  161  git branch
+  162  git push origin main
+  163  touch main_test.txt
+  164  git add  .
+  165  git commit -m "main_test.txt dosyası oluşturuldu"
+  166  git push origin main
+  167  clearr
+  168  clear
+  169  git checkout -b develop
+  170  pwd
+  171  touch develop_test.txt
+  172  git add .
+  173  git commit -m "develop_test.txt dosyası eklendi"
+  174  Develop branch üzerinde değişiklik yapıldı
+  175  git status
+  176  git add .
+  177  git commit -m "develop_test.txt dosyasında değişiklik yapıldı"
+  178  git push origin develop
+  179  git push -u origin develop
+  180  clear
+  181  git checkout main
+  182  git merge develop
+  183  git push origin main
+  184  git log --oneline --graph --all
+  185  git push origin main
+  186  clear
+  187  history > command_list.csv
